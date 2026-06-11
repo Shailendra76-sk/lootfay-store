@@ -1,0 +1,9 @@
+# LootBazaar.in
+
+> Live daily Amazon India deals and budget loots, hand-picked across Electronics, Gadgets, Fashion, Home & Kitchen, Books and Sports — refreshed throughout the day.
+
+LootBazaar.in surfaces budget-friendly Amazon India products with affiliate-tagged outbound links. The homepage is a searchable, category-filterable grid of the freshest deals.
+
+## Pages
+
+- [Home](/): Today's top budget loots across all categories.

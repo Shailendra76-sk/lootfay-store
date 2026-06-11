@@ -1,0 +1,2 @@
+ALTER TABLE public.amazon_products ADD COLUMN IF NOT EXISTS last_fb_posted_at timestamptz;
+CREATE INDEX IF NOT EXISTS amazon_products_last_fb_posted_at_idx ON public.amazon_products (last_fb_posted_at NULLS FIRST);
